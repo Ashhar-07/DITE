@@ -1,0 +1,2 @@
+# DITE
+AI based DIET PLAN FLUTTER APP
